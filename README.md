@@ -49,4 +49,4 @@ After pasting the CDN Links, we will use various features in Bootstrap such as B
 
 Name: Shivank Kapur - shivankkapur2004@gmail.com
 
-Project Link: 
+Project Link: https://shivankk26.github.io/TinDog-Startup-Website/
